@@ -5,7 +5,19 @@
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
+        
+        {% if site.about == true %}
+               <li class="item">
+                    <a class="link" href="{{ site.url }}/about">About</a>
+               </li>
+        {% endif %}
 
+        {% if site.resume == true %}
+                <li class="item">
+                    <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+                </li>
+        {% endif %}
+        
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
@@ -22,16 +34,5 @@
             {% endif %}
         {% endif %}
 
-        {% if site.about == true %}
-               <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
-               </li>
-        {% endif %}
-
-        {% if site.resume == true %}
-                <li class="item">
-                    <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
-                </li>
-        {% endif %}
     </ul>
 </nav>
