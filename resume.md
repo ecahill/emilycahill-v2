@@ -9,7 +9,7 @@ permalink: "resume"
 
 Major: Bachelor of Science, Computer Science - December 2015
 
-Graduated with honors
+Concentration: People and Devices
 
 ## Work Experience
 [Bazaarvoice](http://www.bazaarvoice.com/) - Austin, TX
