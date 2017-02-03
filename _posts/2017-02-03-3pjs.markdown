@@ -5,8 +5,9 @@ date: 2017-02-03 10:30
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- JavaScript
+- web development
+- third party apps
 star: true
 category: blog
 author: emilycahill
