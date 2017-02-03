@@ -12,3 +12,9 @@ category: blog
 author: emilycahill
 description: Overview of my Women Who Code talk on third party JavaScript
 ---
+
+In January, I was fortunate to have the opportunity to speak at a Women Who Code event hosted by Bazaarvoice. In college, I lead workshops teaching girls about robotics and computing, and helped prepare girls in high school for the AP Computer Science exam. Since then, I've been looking for ways to continue sharing my knowledge to teach, help, and inspire others, especially other women. 
+
+Expecting an introductory level audience, I decided to talk about third party JavaScript and some of the unique challenges that my team has had to overcome. 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jjphEqlb19MYQs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EmilyCahill1/third-party-javascript-71732540" title="Third Party JavaScript" target="_blank">Third Party JavaScript</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/EmilyCahill1">Emily Cahill</a></strong> </div>
