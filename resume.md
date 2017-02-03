@@ -97,6 +97,8 @@ Georgia Tech Equestrian Team, President - May 2014-May 2015
 
 [Sisters Rise Up](http://www.ecepalliance.org/sisters-rise), Leader - October 2014-May 2015
 
+Georgia Tech Institute of Computing Education, Research Assistant - October 2012-May 2014
+
 College of Computing, Mentor - August 2013-May 2015
 
 CS 1801 TA and Grader - August 2013-December 2014
