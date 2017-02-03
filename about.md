@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: "about"
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.picture }})
 
 My name is Emily Cahill, I graduated from Georgia Institute of 
 Technology with a Computer Science degree in 
