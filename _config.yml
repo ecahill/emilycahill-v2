@@ -14,7 +14,7 @@ picture: assets/images/croatiapicture.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: /resume/
+resume-url: resume/
 
 #url: https://koppl.in/indigo
 url: http://ecahill.github.io
