@@ -9,7 +9,7 @@ permalink: "resume"
 
 Major: Bachelor of Science, Computer Science - December 2015
 
-GPA: 3.33 out of 4.0
+Graduated with honors
 
 ## Work Experience
 [Bazaarvoice](http://www.bazaarvoice.com/) - Austin, TX
