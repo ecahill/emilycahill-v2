@@ -17,7 +17,7 @@ After graduating, I moved to Austin, Texas to work full time
 as a Front End Engineer at Bazaarvoice. My team, known as the Display Team, is responsible for the front end of BV's main product, Conversations (Ratings and Reviews), as well as additional, smaller third party apps that we are currently experimenting with. These applications are products that clients can implement along with Conversations to have better SEO, get more reviews from their customers, and help their customers make smarter purchasing decisions by seeing more specific review content. One of the applications that I helped develop is called Seller Ratings Display. It is a third
 party Javascript application that shows a retailer's Google Seller Ratings on their home page. 
 
-Since I started working at Bazaarvoice in January,
+Since I started working at Bazaarvoice,
 I have advanced my HTML, CSS, and Javascript skills, as well as gained
 experience in Node.js, React, and Redux. I have learned about how we help our clients increase their SEO and how to overcome the challenges of developing third party Javascript applications. 
 
