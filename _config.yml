@@ -57,7 +57,7 @@ authors:
     emilycahill:
         name: Emily Cahill
         bio: Front End Developer with a passion for travel and new technologies.
-        external-image: false
+        external-image: true
         picture: assets/images/profilepicture.jpg
 
 
