@@ -8,7 +8,6 @@ tag:
 - JavaScript
 - web development
 - third party apps
-star: true
 category: blog
 author: emilycahill
 description: Overview of my Women Who Code talk on third party JavaScript
