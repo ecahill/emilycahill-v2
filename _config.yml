@@ -8,7 +8,7 @@ description: Personal website of Emily Cahill
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/croatiapicture.jpg
+picture: https://ecahill.github.io/emilycahill-v2/assets/images/croatiapicture.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Emily Cahill
         bio: Front End Developer with a passion for travel and new technologies.
         external-image: true
-        picture: assets/images/croatiapicture.jpg
+        picture: https://ecahill.github.io/emilycahill-v2/assets/images/croatiapicture.jpg
 
 
 # do you want a larger site? change the option below
