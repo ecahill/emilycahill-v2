@@ -12,3 +12,5 @@ category: blog
 author: emilycahill
 description: My thoughts on first attempts at WebVR.
 ---
+
+This weekend during South by Southwest, I got the chance to participate in a workshop on WebVR. 
