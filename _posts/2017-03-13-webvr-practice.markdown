@@ -22,3 +22,5 @@ Feel free to try out my game [here](https://ecahill.github.io/WebVRPractice/)!
 Throughout the rest of the weekend, most of the interactive exhibits I went to included some kind of VR experience. After SXSW, I'm aware of just how trendy virtual reality is becoming, and how many companies are working to make it even more common and accessible. 
 
 The workshop made me realize that new frameworks make it very simple to develop virtual reality experiences. A-Frame is one that I can definitely see myself continuing to experiment with because it's obvious that this is a great time to get experience in VR development. 
+
+![Cardboard](/assets/images/VR_cardboard.jpg)
