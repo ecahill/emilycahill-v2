@@ -13,7 +13,7 @@ author: emilycahill
 description: My thoughts on first attempts at WebVR.
 ---
 
-![Cardboard](/assets/images/VR_cardboard2.png){:height="280px" width="220px"}
+![Cardboard](/assets/images/VR_cardboard2.png){:height="220px" width="280px"}
 
 This weekend during South by Southwest, I got the chance to participate in a workshop by Austin Coding Academy on WebVR. Everyone in the workshop got their own VR cardboard to experiment with. The instructor went over the A-Frame framework, which simplifies the VR development experience by integrating with HTML. 
 
