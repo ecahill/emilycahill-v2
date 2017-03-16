@@ -23,4 +23,4 @@ Throughout the rest of the weekend, most of the interactive exhibits I went to i
 
 The workshop made me realize that new frameworks make it very simple to develop virtual reality experiences. A-Frame is one that I can definitely see myself continuing to experiment with because it's obvious that this is a great time to get experience in VR development. 
 
-![Cardboard](/assets/images/VR_cardboard.jpg)
+![Cardboard](/assets/images/VR_cardboard.png)
