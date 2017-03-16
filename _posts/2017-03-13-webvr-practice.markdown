@@ -2,7 +2,7 @@
 title: "Trying out WebVR"
 layout: post
 date: 2017-03-13 10:30
-image: /assets/images/VR_cardboard.png
+image: /assets/images/VR_cardboard2.png
 headerImage: false
 tag:
 - HTML
