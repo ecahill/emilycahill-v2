@@ -12,9 +12,17 @@ Major: Bachelor of Science, Computer Science - December 2015
 Concentration: People and Devices
 
 ## Work Experience
+
+Google - New York City, NY
+
+Software Engineer - June 2017-present
+<ul>
+<li>Full Stack Engineer within the Docs organization</li>
+</ul>
+
 [Bazaarvoice](http://www.bazaarvoice.com/) - Austin, TX
 
-Front End Engineer - January 2016-present
+Front End Engineer - January 2016-May 2017
 <ul>
 <li>Build and maintain Small Web Apps Technologies, a collection of third party apps aimed at helping our clients increase conversions, enhance SEO, and encourage users to leave reviews for purchased products</li>
 <li>Build an internal tool to help my team monitor the health of our applications and see information on client deployments</li>
