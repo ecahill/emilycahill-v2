@@ -122,7 +122,7 @@ Phillips 66 SHIELD Scholar - August 2013-December 2015
 
 ConocoPhillips Innovation Challenge, 3rd place - April 2014
 
-Georgia Tech College of Computing Student Spotlight - February 2015
+[Georgia Tech College of Computing Student Spotlight](https://www.cc.gatech.edu/content/prereqs-programming-and-petroleum) - February 2015
 
 [1]: http://aws.amazon.com/ec2/spot
 [2]: http://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ModifySpotFleetRequest.html
